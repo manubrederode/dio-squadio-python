@@ -1,1 +1,1 @@
-# 💻Bootcamp Coding The Future Squadio - Python Challanges
+# 💻Bootcamp Coding The Future Squadio - Python Challenges
